@@ -1,0 +1,5 @@
+C:\Users\jfshinevar\Documents\GitHub\Split-Excel-and-Email\SplitExcel\SplitExcel\SplitExcel\bin\Debug\SplitExcel.exe
+C:\Users\jfshinevar\Documents\GitHub\Split-Excel-and-Email\SplitExcel\SplitExcel\SplitExcel\bin\Debug\SplitExcel.pdb
+C:\Users\jfshinevar\Documents\GitHub\Split-Excel-and-Email\SplitExcel\SplitExcel\SplitExcel\obj\Debug\SplitExcel.csprojResolveAssemblyReference.cache
+C:\Users\jfshinevar\Documents\GitHub\Split-Excel-and-Email\SplitExcel\SplitExcel\SplitExcel\obj\Debug\SplitExcel.exe
+C:\Users\jfshinevar\Documents\GitHub\Split-Excel-and-Email\SplitExcel\SplitExcel\SplitExcel\obj\Debug\SplitExcel.pdb
